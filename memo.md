@@ -23,3 +23,7 @@
 * シードによるテストデータの作成
 
 特に後半はModelとControllerのより詳しくて便利な使い方の説明があった。
+
+## .gitignore
+
+ターミナルで`dotnet new gitignore`で作成。
